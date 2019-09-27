@@ -1,0 +1,4 @@
+#Fri Sep 27 18:16:56 IST 2019
+base.0=/Users/iCreative/Documents/Projects/ReactNative/Cbox_Challange/RND/NetworkExample/CboxChallange/CboxChallange/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
